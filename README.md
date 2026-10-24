@@ -22,10 +22,10 @@ Today, I combine my practical IT background with programming, AI workflows, and 
 
 ### 🚀 Featured Projects
 
-#### 1. 📖 [SeydGanj Open](https://github.com/Edward6699/seyd-ganj) *(Flagship Open-Source Project)*
+#### 1. 📖 [SeydGanj Open](https://github.com/Edward6699/seyd-ganj) *(Flagship Open-Source Project — Coming soon)*
 An open-source **Balochi–Persian Dictionary** featuring **16,241 lexical entries**. Built to preserve, digitize, and make the Balochi language accessible for researchers, native speakers, and software developers.
 
-#### 2. 🎨 [Persian Web Skills (`persian-web-skills`)](https://github.com/Edward6699/persian-web-skills) *(Releasing Soon)*
+#### 2. 🎨 [Persian Web Skills (`persian-web-skills`)](https://github.com/Edward6699/persian-web-skills)
 A collection of production-ready custom AI Agent Skills (`SKILL.md`) tailored for Persian web development:
 - **`persian-rtl-web-design`**: Comprehensive rules and layouts for authentic Right-to-Left (RTL) Persian user interfaces and typography.
 - **`persian-landing-builder`**: Structured workflows for designing and coding high-converting Persian landing pages.
