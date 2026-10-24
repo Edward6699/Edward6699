@@ -13,6 +13,7 @@ I am an IT Support and Network Technician based in **Chabahar, Balochistan**. My
 
 - **Hardware & Systems:** PC assembly, hardware diagnostics and repair, Windows deployment, system optimization, and malware/virus removal.
 - **Networking & Security Systems:** Designing and executing local area network (LAN) projects, alongside sales, installation, and configuration of CCTV surveillance systems with mobile remote viewing.
+- **Remote Administration & Android:** Remote Administration Tools (RAT) and RMM solutions for unattended Windows and Android support, alongside Android development.
 - **Professional Background:** Former founder and manager of **Sky System** (computer sales and IT services company) and former staff member in Administrative Affairs & Office Automation at the **Chabahar Free Zone Organization**.
 
 Today, I combine my practical IT background with digital storytelling to build open-source tools and document the culture, language, and nature of Balochistan.
