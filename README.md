@@ -1,6 +1,6 @@
 # Hi there, I'm Edward (Edward6699) 👋
 
-**IT Support & Network Technician | Documentary Creator**
+**Omid Razmkhah | IT Support & Network Technician | Documentary Creator**
 📍 *Chabahar, Balochistan, Iran*
 
 > «از کار میدانی شبکه و سخت‌افزار در چابهار تا ساخت ابزارهای متن‌باز و روایتگری مستند از بلوچستان.»
